@@ -1,5 +1,5 @@
-var dropBoxId = "1UuOsGNBfniKd-rRN4Wv9D2NrhtAgL99Z"; // Drive ID of 'dropbox' folder
-var logSheetId = "11tHqzDBh-qdc2xHLgVf28WMLLjBoj_YjVlUmuVfaJyE"; // Drive ID of log spreadsheet
+var dropBoxId = ""; // Drive ID of 'dropbox' folder
+var logSheetId = ""; // Drive ID of log spreadsheet
 
 function doPost(e) {
 
